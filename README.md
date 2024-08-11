@@ -10,6 +10,7 @@ I'm a cybersecurity enthusiast with a passion for reverse engineering, malware a
 ## 🛠️ Skills & Tools
 
 ### **Programming & Scripting:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
@@ -21,8 +22,9 @@ I'm a cybersecurity enthusiast with a passion for reverse engineering, malware a
 ![Memory Forensics](https://img.shields.io/badge/Memory%20Forensics-4682B4?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-FF4500?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![windows internals](https://img.shields.io/badge/Wireless%20Pentesting-32CD32?style=for-the-badge)
-![Windows incident response](https://img.shields.io/badge/Web%20Security-20B2AA?style=for-the-badge)
+![Windows Internals](https://img.shields.io/badge/Windows%20Internals-00BFFF?style=for-the-badge)
+![Windows Incident Response](https://img.shields.io/badge/Windows%20Incident%20Response-1E90FF?style=for-the-badge)
+
 
 ### **Tools & Technologies:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

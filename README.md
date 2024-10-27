@@ -1,8 +1,7 @@
 <!-- Profile Header -->
 <img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" alt="Profile Banner" style="width:100%;"/>
 
-# 👋 Hi, I'm [rivian]
-
+# 👋 Hi, I'm Rahul (aka rivian)
 I'm a cybersecurity enthusiast with a passion for reverse engineering, malware analysis, and low-level programming. My projects reflect my journey in the world of cybersecurity, where I experiment, learn, and contribute to the community.
 
 ---

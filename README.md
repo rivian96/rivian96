@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Rahul (aka rivian)
 I am a computer science and engineering student specialisng in cyber security,
-currently learning Reverse engineering and binary analysis.
+currently learning Reverse engineering and Malware analysis.
 
 ---
 

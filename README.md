@@ -1,9 +1,7 @@
 <!-- Profile Header -->
 <img src="https://github.com/rivian96/rivian96/blob/main/assets/Screenshot%202025-08-10%20003637.png?raw=true" alt="Profile Banner" style="width:100%;"/>
 
-# 👋 Hi, I'm Rahul (aka rivian)
 I am a computer science and engineering student specialisng in cyber security,
-currently learning Reverse engineering and Malware analysis.
 
 ---
 

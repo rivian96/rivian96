@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" alt="Profile Banner" style="width:100%;"/>
+<img src="https://drive.google.com/file/d/1ds09k_ljAdhPdtj7V_s09SKZpu9dMJtk/view?usp=sharing" alt="Profile Banner" style="width:100%;"/>
 
 # 👋 Hi, I'm Rahul (aka rivian)
 I am a computer science and engineering student specialisng in cyber security,
